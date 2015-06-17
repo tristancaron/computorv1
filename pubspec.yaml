@@ -1,0 +1,5 @@
+name: computorV1
+version: 0.0.1
+description: >
+  Simple equation solver for 42.
+author: Tristan Caron <tcaron@student.42.fr>
